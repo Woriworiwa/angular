@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@angular/admin": ["libs/admin/src/index.ts"],
+      "@angular/poi": ["libs/poi/src/index.ts"],
       "@angular/visitor": ["libs/visitor/src/index.ts"]
     }
   },
